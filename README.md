@@ -7,7 +7,9 @@ Maps for field trip to measure tree canopy
 ![Kentucky Counties](Ky-landcover.jpg)   
 Kentucky counties with selected land cover types – [Download geospatial PDF](Ky-landcover.pdf)
 
-![UKy Campus canopy model](campus-canopy-model.jpg)   
-UKy central campus canopy model – [Download geospatial PDF](campus-canopy-model.pdf)
+![UKy Campus canopy model](TreeCanopy.jpg)   
+UKy central campus canopy model – [Download geospatial PDF](CampusCanopy.pdf)
 
 Maps created by katyeberry for GEO409, Spring 2023, University of Kentucky Department of Geography
+
+
